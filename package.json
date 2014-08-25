@@ -1,0 +1,21 @@
+{
+  "name": "esx-bundle",
+  "version": "0.0.0",
+  "description": "Create bundle from multiple javascript modules.",
+  "author": "Marko Durkovic <marko@miding.de> (https://github.com/durko)",
+  "license": "MIT",
+  "dependencies": {
+    "esprima": "git://github.com/esnext/esprima#harmony-esnext"
+  },
+  "devDependencies": {
+    "recast": "~0.7.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/durko/esx-bundle"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
