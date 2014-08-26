@@ -1,6 +1,6 @@
 {
   "name": "esx-bundle",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create bundle from multiple javascript modules.",
   "author": "Marko Durkovic <marko@miding.de> (https://github.com/durko)",
   "license": "MIT",
